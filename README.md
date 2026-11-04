@@ -1,2 +1,11 @@
-# ism2411-labs11
-ISM 2411 - Unit 3 Lab 11: Dictionaries
+# ISM2411 Lab 11 — Customer Dictionary & Lookup
+
+Samhita Savaram
+
+## How to Run
+
+From this folder:
+
+```
+python3 customers.py
+```
